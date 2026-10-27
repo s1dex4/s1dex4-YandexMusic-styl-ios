@@ -1,0 +1,7 @@
+{
+  "appId": "com.yamusic.launcher",
+  "appName": "Музыка",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
